@@ -1,5 +1,5 @@
 name: campus_mate
-description: "A new Flutter project."
+description: "大学生のための時間割・課題・バイト・私用管理アプリ"
 publish_to: 'none'
 
 version: 1.16.3+1

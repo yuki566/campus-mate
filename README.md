@@ -1,7 +1,28 @@
 # CampusMate (キャンパスメイト) 🎓
 **金沢工業大学（KIT）生のための、時間割・課題・バイト管理オールインワンアプリ**
 
-![App Icon or Banner](screenshots/top_screen.png)
+<table border="0">
+  <tr>
+    <td width="33%" align="center"><b>📅 トップ画面 (月)</b></td>
+    <td width="33%" align="center"><b>🗓 スケジュール (週)</b></td>
+    <td width="33%" align="center"><b>💰 バイト分析 (推し機能)</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/1_top.png" width="100%"></td>
+    <td><img src="screenshots/2_week.png" width="100%"></td>
+    <td><img src="screenshots/5_analysis.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><b>📚 時間割・出席管理</b></td>
+    <td width="33%" align="center"><b>📝 課題管理 (フィルタ付)</b></td>
+    <td width="33%" align="center"><b>✨ 実績入力</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/3_timetable.png" width="100%"></td>
+    <td><img src="screenshots/4_assignment.png" width="100%"></td>
+    <td><img src="screenshots/5_analysis.png" width="100%"></td> 
+    </tr>
+</table>
 ## 📖 概要
 「CampusMate」は、大学生活に必要なスケジュール管理を一つのアプリで完結させるために開発されたPWA（プログレッシブウェブアプリ）です。
 時間割の出席管理、課題の提出期限、アルバイトのシフト管理・給与計算を統合し、学生生活をトータルサポートします。
