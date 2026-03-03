@@ -21,7 +21,7 @@
     <td><img src="screenshots/3_timetable.png" width="100%"></td>
     <td><img src="screenshots/4_assignment.png" width="100%"></td>
     <td><img src="screenshots/5_analysis.png" width="100%"></td> 
-    </tr>
+  </tr>
 </table>
 ## 📖 概要
 「CampusMate」は、大学生活に必要なスケジュール管理を一つのアプリで完結させるために開発されたPWA（プログレッシブウェブアプリ）です。
